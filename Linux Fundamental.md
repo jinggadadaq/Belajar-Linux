@@ -35,8 +35,9 @@ network:
         addresses: ['8.8.8.8']
   version: 2
 ```
-
-Mengatur IP statis, gateway, dan DNS pada Ubuntu Server menggunakan Netplan.
+``` netplan apply ```
+netplan apply digunakan untuk menerapkan aturan jaringan di ubuntu.
+Mengatur IP statis, gateway, dan DNS pada Ubuntu Server menggunakan Netplan jangan lupa juga untuk interface yang di gunakan wajid disamakan dengan yang sudah ada sebelumnya.
 
 # **Perintah Dasar Linux**
 
