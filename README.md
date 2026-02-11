@@ -20,4 +20,4 @@ Ikuti langkah-langkah konfigurasi secara berurutan sesuai dokumentasi modul.
 - Koneksi internet
 
 ---
-Cocok untuk praktikum, lab server, dan belajar mandiri selamat mencoba semoga anda ketagihan.
+Cocok untuk praktikum, lab server, dan belajar mandiri,selamat mencoba semoga anda ketagihan.
